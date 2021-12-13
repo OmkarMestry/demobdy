@@ -19,7 +19,7 @@ body{
      position:fixed;
     left:0;
     right:0;
-    background-image: url("/images/Happy_Bday.png");
+    background-image: url("Happy_Bday.png");
     background-size: 350px 150px;
     background-repeat: no-repeat;
     
@@ -28,7 +28,7 @@ body{
 
  .backg:hover{
 
-    background-image: url(/images/6ob.gif);
+    background-image: url(6ob.gif);
  }
  .table{
      border-bottom: 130px solid  #f2a65a;
